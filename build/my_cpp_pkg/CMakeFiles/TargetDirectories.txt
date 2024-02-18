@@ -1,5 +1,6 @@
 /home/vboxuser/ros2_ws/build/my_cpp_pkg/CMakeFiles/uninstall.dir
 /home/vboxuser/ros2_ws/build/my_cpp_pkg/CMakeFiles/my_cpp_pkg_uninstall.dir
+/home/vboxuser/ros2_ws/build/my_cpp_pkg/CMakeFiles/cpp_node.dir
 /home/vboxuser/ros2_ws/build/my_cpp_pkg/CMakeFiles/test.dir
 /home/vboxuser/ros2_ws/build/my_cpp_pkg/CMakeFiles/edit_cache.dir
 /home/vboxuser/ros2_ws/build/my_cpp_pkg/CMakeFiles/rebuild_cache.dir
