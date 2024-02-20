@@ -1,0 +1,8 @@
+[01m[K/home/vboxuser/ros2_ws/src/my_cpp_pkg/src/robot_news_station.cpp:[m[K In member function ‘[01m[Kvoid RobotNewsStationNode::publishNews()[m[K’:
+[01m[K/home/vboxuser/ros2_ws/src/my_cpp_pkg/src/robot_news_station.cpp:16:42:[m[K [01;31m[Kerror: [m[Kfound ‘[01m[K:[m[K’ in nested-name-specifier, expected ‘[01m[K::[m[K’
+   16 |         auto msg= example_interfaces::msg[01;31m[K:[m[KString();
+      |                                          [01;31m[K^[m[K
+      |                                          [32m[K::[m[K
+gmake[2]: *** [CMakeFiles/robot_news_station.dir/build.make:76: CMakeFiles/robot_news_station.dir/src/robot_news_station.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/robot_news_station.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
