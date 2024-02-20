@@ -1,6 +1,8 @@
+/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/smartphone.py
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station.py
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py
+/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__pycache__/smartphone.cpython-310.pyc
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__pycache__/robot_news_station.cpython-310.pyc
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__pycache__/__init__.cpython-310.pyc
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__pycache__/my_first_node.cpython-310.pyc
@@ -15,3 +17,4 @@
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info/requires.txt
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg/py_node
 /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg/robot_news_station
+/home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg/smartphone
