@@ -726,4 +726,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/robot_news_station.dir/DependInfo.cmake"
   "CMakeFiles/smartphone.dir/DependInfo.cmake"
   "CMakeFiles/add_two_ints_server.dir/DependInfo.cmake"
+  "CMakeFiles/add_two_ints_client_no_oop.dir/DependInfo.cmake"
   )
